@@ -1,5 +1,8 @@
 # :zap: Calculadora de Consumo Elétrico
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Energia Elétrica](https://img.shields.io/badge/Energia_Elétrica-FFD700?style=for-the-badge&logo=lightning&logoColor=white) ![Cálculos](https://img.shields.io/badge/Cálculos:_kWh%20%2F%20R%24-8A2BE2?style=for-the-badge&logo=cachet&logoColor=white)
+
 > Estime o consumo mensal de energia elétrica dos seus aparelhos e descubra quanto custam na conta de luz.
 
 ---
@@ -54,3 +57,4 @@ Resultado:
     Custo: R$ 54,00/mês
 Calcular outro? (s/n):
 ```
+
